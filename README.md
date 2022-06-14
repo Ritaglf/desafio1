@@ -12,9 +12,9 @@
     <section id="presentation">
         <div class="presentation container">
             <div>
-                <h1>Olá!<span></span></h1>
+                <h1>Bem Vindos!<span></span></h1>
                 <h1>à Florianópolis por<span></span></h1>
-                <h1>Gabriel de Brito<span></span></h1>
+                <h1>Rita de Brito<span></span></h1>
                 <a href="#portfolio" type="button" class="cta">Portifólio</a>
             </div>
         </div>
